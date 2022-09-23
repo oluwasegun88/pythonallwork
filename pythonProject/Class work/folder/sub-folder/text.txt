@@ -1,0 +1,1 @@
+temperature_reading =[68,65,68,70,74,72]
